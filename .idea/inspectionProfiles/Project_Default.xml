@@ -1,0 +1,44 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0" is_locked="false">
+    <option name="myName" value="Project Default" />
+    <option name="myLocal" value="false" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="5">
+            <item index="0" class="java.lang.String" itemvalue="arun-app" />
+            <item index="1" class="java.lang.String" itemvalue="arun-model" />
+            <item index="2" class="java.lang.String" itemvalue="ng-app" />
+            <item index="3" class="java.lang.String" itemvalue="ng-model" />
+            <item index="4" class="java.lang.String" itemvalue="ng-controller" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="4">
+            <item index="0" class="java.lang.String" itemvalue="django" />
+            <item index="1" class="java.lang.String" itemvalue="pymysql" />
+            <item index="2" class="java.lang.String" itemvalue="nltk" />
+            <item index="3" class="java.lang.String" itemvalue="Django" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <value>
+          <list size="4">
+            <item index="0" class="java.lang.String" itemvalue="pygame.QUIT" />
+            <item index="1" class="java.lang.String" itemvalue="pygame.quit" />
+            <item index="2" class="java.lang.String" itemvalue="pygame.init" />
+            <item index="3" class="java.lang.String" itemvalue="pymysql" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
