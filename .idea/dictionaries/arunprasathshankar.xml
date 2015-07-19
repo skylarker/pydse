@@ -3,7 +3,13 @@
     <words>
       <w>datasets</w>
       <w>libsvm</w>
+      <w>occup</w>
+      <w>pred</w>
+      <w>regr</w>
       <w>regressor</w>
+      <w>scaler</w>
+      <w>stemmer</w>
+      <w>vect</w>
     </words>
   </dictionary>
 </component>
