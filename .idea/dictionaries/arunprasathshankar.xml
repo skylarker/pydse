@@ -2,12 +2,15 @@
   <dictionary name="arunprasathshankar">
     <words>
       <w>datasets</w>
+      <w>foaf</w>
       <w>libsvm</w>
       <w>occup</w>
       <w>pred</w>
+      <w>probs</w>
       <w>regr</w>
       <w>regressor</w>
       <w>scaler</w>
+      <w>spammiest</w>
       <w>stemmer</w>
       <w>vect</w>
     </words>
